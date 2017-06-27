@@ -1,0 +1,14 @@
+F:\PROJEKTY\VISUAL_STUDIO\Pret\Pret\bin\Debug\Pret.exe.config
+F:\PROJEKTY\VISUAL_STUDIO\Pret\Pret\obj\Debug\Pret.csprojResolveAssemblyReference.cache
+F:\PROJEKTY\VISUAL_STUDIO\Pret\Pret\obj\Debug\Pret.Form1.resources
+F:\PROJEKTY\VISUAL_STUDIO\Pret\Pret\obj\Debug\Pret.Properties.Resources.resources
+F:\PROJEKTY\VISUAL_STUDIO\Pret\Pret\obj\Debug\Pret.csproj.GenerateResource.Cache
+F:\PROJEKTY\VISUAL_STUDIO\Pret\Pret\bin\Debug\Pret.exe
+F:\PROJEKTY\VISUAL_STUDIO\Pret\Pret\bin\Debug\Pret.pdb
+F:\PROJEKTY\VISUAL_STUDIO\Pret\Pret\obj\Debug\Pret.exe
+F:\PROJEKTY\VISUAL_STUDIO\Pret\Pret\obj\Debug\Pret.pdb
+F:\PROJEKTY\VISUAL_STUDIO\Pret\Pret\bin\Debug\Pret.exe.manifest
+F:\PROJEKTY\VISUAL_STUDIO\Pret\Pret\bin\Debug\Pret.application
+F:\PROJEKTY\VISUAL_STUDIO\Pret\Pret\obj\Debug\Pret.TrustInfo.xml
+F:\PROJEKTY\VISUAL_STUDIO\Pret\Pret\obj\Debug\Pret.exe.manifest
+F:\PROJEKTY\VISUAL_STUDIO\Pret\Pret\obj\Debug\Pret.application
